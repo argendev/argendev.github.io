@@ -6,7 +6,7 @@ Responsive website built with [Bootstrap 3](http://getbootstrap.com/) to be comp
 
 Run `npm install && bower install` to fetch all the dependencies. Right after that, run `gulp` to have the server up and running (with livereload) and also to have Gulp watch your files.
 
-The site will be now live on http://localhost:4567.
+The site will be now live on [http://localhost:4567](http://localhost:4567).
 
 ## Semantic Versioning
 
