@@ -1,0 +1,7 @@
+bower_components
+node_modules
+test
+tests
+*.log
+.idea
+.DS_Store
